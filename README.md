@@ -1,7 +1,7 @@
 # Template V3 - Database Access
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/template-database-access.svg)](https://github.com/dirigiblelabs/template-v3-database-access/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/template-v3-database-access.svg)](https://github.com/dirigiblelabs/template-v3-database-access/graphs/contributors)
 
 
 ## Overview
